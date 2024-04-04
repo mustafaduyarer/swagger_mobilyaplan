@@ -6,7 +6,7 @@ servers:
 info:
   version: "1.0.0"
   title: home-iot-api MD
-  description: The API for the EatBacon IOT project
+  description: The API for the MobilyaPlan
 paths:
   /devices:
     get:
